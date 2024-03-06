@@ -38,4 +38,4 @@ namespace CMP1903_A1_2324 {
 * code handles erroneous inputs from users and prompts them to input something valid
 *
 * in summary I see no issues with the code. Good Job!
-*/
+* i love the effort you did on it. that a great job
