@@ -34,8 +34,8 @@ namespace CMP1903_A1_2324 {
         /// the get will return the value of "_value" (an intager between 1 and 6)
         /// </returns>
         /// <exception cref="ArgumentOutOfRangeException">
-        /// Will raise an "ArgumentOutOfRangeException" if you attempt to set "_value" to a number outside
-        /// the allowed 1 to 6 range
+        /// Will raise an "ArgumentOutOfRangeException" if you attempt to set "_value" to a number
+        /// outside the allowed 1 to 6 range
         /// </exception>
         public int Value {
             get {
